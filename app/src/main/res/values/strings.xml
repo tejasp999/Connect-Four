@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connect4AI</string>
+    <string-array name="algorithms_array">
+        <item>MiniMax</item>
+        <item>Alpha Beta</item>
+    </string-array>
+</resources>
